@@ -1,0 +1,10 @@
+site_name: Marbles Connect-a-thon Lab
+repo_url: https://github.com/silliman/2019FastStart
+edit_uri: blob/master/docs/
+nav:
+    - Home: index.md
+    - Lab Part 1: MarblesSmartContractLab.md
+
+theme: readthedocs
+markdown_extensions:
+  - admonition
